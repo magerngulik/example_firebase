@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "508106532402",
+    "project_id": "pasar-moderen-si-mager",
+    "storage_bucket": "pasar-moderen-si-mager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508106532402:android:9def3da60aade26386be2b",
+        "android_client_info": {
+          "package_name": "com.example.blank_fire_setstate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508106532402-b55hl190mmlvbjdkflo23cmsra3as725.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxI9HsB-mtUYT2dtwhVRQNUpviToqXM2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508106532402-b55hl190mmlvbjdkflo23cmsra3as725.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508106532402:android:d781b2687238f43e86be2b",
+        "android_client_info": {
+          "package_name": "com.example.pasar_moderen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508106532402-b55hl190mmlvbjdkflo23cmsra3as725.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxI9HsB-mtUYT2dtwhVRQNUpviToqXM2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508106532402-b55hl190mmlvbjdkflo23cmsra3as725.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
